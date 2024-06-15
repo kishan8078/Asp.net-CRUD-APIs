@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1EE62-C09A-4370-B153-EAE8D34E77B4}|EduSync.Web.API\\EduSync.Web.API.csproj|c:\\users\\kishan kumar\\source\\repos\\newfolds1\\edusync\\edusync.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1EE62-C09A-4370-B153-EAE8D34E77B4}|EduSync.Web.API\\EduSync.Web.API.csproj|solutionrelative:edusync.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B87393-03F2-44C6-A26B-5121E9FAC22D}|EduSync.Business\\EduSync.Business.csproj|c:\\users\\kishan kumar\\source\\repos\\newfolds1\\edusync\\edusync.business\\subjectbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B87393-03F2-44C6-A26B-5121E9FAC22D}|EduSync.Business\\EduSync.Business.csproj|solutionrelative:edusync.business\\subjectbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|c:\\users\\kishan kumar\\source\\repos\\newfolds1\\edusync\\edusync.dataaccess\\entities\\edusynccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|solutionrelative:edusync.dataaccess\\entities\\edusynccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|c:\\users\\kishan kumar\\source\\repos\\newfolds1\\edusync\\edusync.dataaccess\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|solutionrelative:edusync.dataaccess\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|c:\\users\\kishan kumar\\source\\repos\\newfolds1\\edusync\\edusync.dataaccess\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|solutionrelative:edusync.dataaccess\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758FF7FB-F2F0-4C32-8E26-048F69B5AD7C}|EduSync.Common\\EduSync.Common.csproj|c:\\users\\kishan kumar\\source\\repos\\newfolds1\\edusync\\edusync.common\\model\\subjectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758FF7FB-F2F0-4C32-8E26-048F69B5AD7C}|EduSync.Common\\EduSync.Common.csproj|solutionrelative:edusync.common\\model\\subjectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|c:\\users\\kishan kumar\\source\\repos\\newfolds1\\edusync\\edusync.dataaccess\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|solutionrelative:edusync.dataaccess\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D1EE62-C09A-4370-B153-EAE8D34E77B4}|EduSync.Web.API\\EduSync.Web.API.csproj|c:\\users\\kishan kumar\\source\\repos\\newfolds1\\edusync\\edusync.web.api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D1EE62-C09A-4370-B153-EAE8D34E77B4}|EduSync.Web.API\\EduSync.Web.API.csproj|solutionrelative:edusync.web.api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|c:\\users\\kishan kumar\\source\\repos\\newfolds1\\edusync\\edusync.dataaccess\\contracts\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09270C36-0028-417F-A856-6F5E4D6D699D}|EduSync.DataAccess\\EduSync.DataAccess.csproj|solutionrelative:edusync.dataaccess\\contracts\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.Web.API\\Program.cs",
+              "RelativeDocumentMoniker": "EduSync.Web.API\\Program.cs",
+              "ToolTip": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.Web.API\\Program.cs",
+              "RelativeToolTip": "EduSync.Web.API\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAYwFUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:51:40.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectModel.cs",
+              "DocumentMoniker": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.Common\\Model\\SubjectModel.cs",
+              "RelativeDocumentMoniker": "EduSync.Common\\Model\\SubjectModel.cs",
+              "ToolTip": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.Common\\Model\\SubjectModel.cs",
+              "RelativeToolTip": "EduSync.Common\\Model\\SubjectModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:51:40.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.Web.API\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "EduSync.Web.API\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.Web.API\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "EduSync.Web.API\\Controllers\\SubjectController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:51:40.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "EduSync.DataAccess\\Entities\\Subject.cs",
+              "ToolTip": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\Entities\\Subject.cs",
+              "RelativeToolTip": "EduSync.DataAccess\\Entities\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:51:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\Contracts\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "EduSync.DataAccess\\Contracts\\ISubjectRepository.cs",
+              "ToolTip": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\Contracts\\ISubjectRepository.cs",
+              "RelativeToolTip": "EduSync.DataAccess\\Contracts\\ISubjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:51:40.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubjectBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.Business\\SubjectBusiness.cs",
+              "RelativeDocumentMoniker": "EduSync.Business\\SubjectBusiness.cs",
+              "ToolTip": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.Business\\SubjectBusiness.cs",
+              "RelativeToolTip": "EduSync.Business\\SubjectBusiness.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:51:40.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "EduSync.DataAccess\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\SubjectRepository.cs",
+              "RelativeToolTip": "EduSync.DataAccess\\SubjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:51:40.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EduSyncContext.cs",
+              "DocumentMoniker": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\Entities\\EduSyncContext.cs",
+              "RelativeDocumentMoniker": "EduSync.DataAccess\\Entities\\EduSyncContext.cs",
+              "ToolTip": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\Entities\\EduSyncContext.cs",
+              "RelativeToolTip": "EduSync.DataAccess\\Entities\\EduSyncContext.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAcwAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:51:40.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "EduSync.DataAccess\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\KISHAN KUMAR\\source\\repos\\NewFolds1\\EduSync\\EduSync.DataAccess\\Entities\\Student.cs",
+              "RelativeToolTip": "EduSync.DataAccess\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:51:40.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+/* General Styles */
+body {
+  background-color: #f0f0f0; /* Light gray background */
+  color: #333; /* Dark text color */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+
+  
+}
+
+.student-list {
+  max-width: 800px; /* Limit width for better readability */
+  margin: 0 auto; /* Center the list horizontally */
+  padding: 20px;
+
+  
+}
+
+h1 {
+  font-size: 24px; /* Larger heading font size */
+  margin-bottom: 20px; /* Add spacing below heading */
+}
+
+.student-card {
+  background-color: #fff; /* White background for each student card */
+  border: 1px solid #ccc; /* Light gray border */
+  border-radius: 5px; /* Rounded corners */
+  padding: 20px; /* Spacing inside each card */
+  margin-bottom: 20px; /* Spacing between cards */
+}
+
+.student-name,
+.student-email,
+.student-enrollment-year {
+  margin: 5px 0; /* Add spacing between student information */
+  text-wrap:pretty;
+}
+
+.delete-button {
+  background-color: #3C0753; /* Red delete button */
+  color: #fff; /* White text color */
+  border: none; /* No border */
+  padding: 8px 16px; /* Padding for button */
+  border-radius: 3px; /* Rounded corners */
+  cursor: pointer; /* Cursor on hover */
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.delete-button:hover {
+  background-color: #720455; /* Darker red on hover */
+}

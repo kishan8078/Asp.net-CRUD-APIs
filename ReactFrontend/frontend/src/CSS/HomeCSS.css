@@ -1,0 +1,70 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Hero Section Styles */
+.hero-section {
+  background-color: #6D1F7C; /* Lighter purple background */
+  color: #F8E1F4; /* Light pink text color */
+  padding: 60px 20px; /* Padding for the section */
+  width: 70vw;
+  margin-left: 250px;
+
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto; /* Center the row */
+}
+
+.col-1, .col-2 {
+  flex: 1;
+  padding: 20px;
+}
+
+.col-1 .wrapper {
+  max-width: 600px; /* Maximum width for the text content */
+  background-color: #6D1F7C; /* Matching background color */
+}
+
+.one h1 {
+  font-size: 36px; /* Large heading font size */
+  margin-bottom: 10px;
+}
+
+.one p, .two p {
+  font-size: 18px; /* Font size for the paragraphs */
+  margin-bottom: 20px; /* Spacing between paragraphs */
+}
+
+.three .btn-grp {
+  margin-top: 20px; /* Spacing above the button group */
+}
+
+.three button {
+  background-color: #F8E1F4; /* Button background color */
+  color: #3C0753; /* Dark purple text color */
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.three button:hover {
+  background-color: #C399D9; /* Medium purple on hover */
+  color: #3C0753; /* Dark purple text color on hover */
+}
+
+.hero-image {
+  max-width: 100%; /* Make sure the image is responsive */
+  border-radius: 10px; /* Rounded corners for the image */
+}

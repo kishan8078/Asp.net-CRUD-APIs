@@ -1,0 +1,49 @@
+/* Reset default margin and padding */
+body, h1, h2, h3, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style header */
+header {
+  background-color: #3C0753; /* Dark purple background */
+  color: #F8E1F4; /* Light pink text color */
+  padding: 10px 0;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center the header elements */
+  /* border-bottom: 1px solid #6D1F7C; */
+}
+
+/* Style navigation menu */
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex; /* Use flexbox to space elements evenly */
+  justify-content: center; /* Center the navigation menu items */
+}
+
+nav ul li {
+  margin-right: 150px;
+}
+
+nav ul li:last-child {
+  margin-right: 0;
+}
+
+nav ul li a {
+  color: #F8E1F4; /* Light pink text color */
+  text-decoration: none;
+  font-size: 18px;
+}
+
+nav ul li a:hover {
+  color: #C399D9; /* Medium purple on hover */
+}
+
+a.active {
+  border-bottom: 3px solid #C399D9; /* Medium purple for active link */
+}
